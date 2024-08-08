@@ -1,0 +1,6 @@
+@ApiRoberto_HostAddress = http://localhost:5110
+
+GET {{ApiRoberto_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
