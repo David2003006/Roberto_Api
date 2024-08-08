@@ -1,12 +1,12 @@
 favor en la terminal ejecutar estos comandos 
 
-```markdown
+markdown
 'dotnet add package Microsoft.EntityFrameworkCore'
 
-```markdown
+markdown
 'dotnet add package Microsoft.EntityFrameworkCore.SqlServer'
 
-```markdown
+markdown
 'dotnet add package Microsoft.EntityFrameworkCore.Tools'
 
 y cambiar la cadena de conexion del archivo appsettings.json 
